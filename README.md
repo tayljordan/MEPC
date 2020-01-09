@@ -1,7 +1,7 @@
 # MEPC
 Categorization of liquid Substances in accordance with MARPOL Annex II
 
-It is in a pickle file (Python 3.X) that can be opened as follows:
+Data expressed as a pickle file (Python 3.X):
 
 ```
 import pickle
